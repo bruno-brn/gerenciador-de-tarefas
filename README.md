@@ -118,7 +118,6 @@ GET /api/tasksControl
     "updatedAt": "2023-09-18 09:34:14",
     "completedAt": "2023-09-18 09:34:14"
   },
-  ...
 ]
 ```
 
