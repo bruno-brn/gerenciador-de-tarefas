@@ -152,19 +152,14 @@ PUT /api/tasksControl/:id
   "createdAt":
 }
 
-* **Deletar Tarefa:** Exclua uma tarefa permanentemente do sistema.
-
-**API:**
-
-* **Deletar Tarefa:**
 
 ```
 DELETE /api/tasksControl/:id
 ```
+```
+*Parâmetros:*
 
-**Parâmetros:**
-
-* **id:** ID da tarefa a ser excluída.
+**id:** ID da tarefa a ser excluída.
 
 **Resposta:**
 
